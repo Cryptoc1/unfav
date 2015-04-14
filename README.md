@@ -8,7 +8,7 @@ So that josh will think I'm cool
 ### How?
 Run **install.sh**
 
-  $ ./install.sh
+    $ ./install.sh
   
 It will install all dependencies.
 
