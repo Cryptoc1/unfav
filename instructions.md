@@ -11,7 +11,7 @@ Twitter: Setting up Twitter client is similar to Instgrams process.
 
 2. Click on __*Create New App*__
 
-3. Name it <your screen-name>-unfav
+3. Name it *\<your screen-name\>*-unfav
 
 4. Under description, enter whatever.
 
