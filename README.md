@@ -10,7 +10,9 @@ Run **install.sh**
 
     $ ./install.sh
   
-It will install all dependencies.
+It will install all dependencies, then read instructions.md. Finally:
+
+    $ ./unfav.py <consumer_key> <consumer_secret>
 
 ### Dependencies
 * python-twitter
