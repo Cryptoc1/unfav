@@ -58,7 +58,6 @@ def get_access_token(consumer_key, consumer_secret):
     return {'access_token': resp.get('oauth_token'), 'access_secret': resp.get('oauth_token_secret')}
 
 def init_attack(api):
-    # print api.VerifyCredentials()
     u = api.GetUser(screen_name=api.VerifyCredentials().screen_name)
     print "You are about to undo all of your favorites, continue? (y/n)"
     confirm = raw_input("> ").lower()
